@@ -1,8 +1,8 @@
+tensorflow
+keras
 dash
 pandas
 plotly
-tenserflow
-keras
 numpy
 flask
 pandas_datareader
