@@ -16,7 +16,6 @@ import numpy as np
 from flask import Flask
 from pandas_datareader import DataReader
 from datetime import datetime as dt
-get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # In[2]:
@@ -383,8 +382,8 @@ def update_graph(selected_dropdown_value):
 
 
 if __name__=='__main__':
-    app.run_server(host='127.0.0.1', port=5000, debug=False)
-    #app.run_server(host='0.0.0.0', port=5000, debug=False)
+    #app.run_server(host='127.0.0.1', port=5000, debug=False)
+    app.run_server(host='0.0.0.0',debug=False)
     
 
 
