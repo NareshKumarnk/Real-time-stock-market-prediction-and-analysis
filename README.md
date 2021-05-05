@@ -7,3 +7,22 @@ RNN models used:<br>
 1.Long Short-Term Memory (LSTM)</br>
 2.Bidirectional Long Short-Term Memory (BiLSTM)</br>
 3.Gated Recurrent Unit (GRU)</br>
+
+DASH:</br>
+![image](https://user-images.githubusercontent.com/66820548/117194670-ff846880-ae01-11eb-8d3c-0f73a1879422.png)
+
+LSTM:</br>
+![image](https://user-images.githubusercontent.com/66820548/117194747-14f99280-ae02-11eb-94d5-e24d414c281a.png)
+
+BiLSTM:</br>
+![image](https://user-images.githubusercontent.com/66820548/117194775-1dea6400-ae02-11eb-8422-4656a417808a.png)
+
+GRU:</br>
+![image](https://user-images.githubusercontent.com/66820548/117194807-26429f00-ae02-11eb-9cf8-8541c53de68d.png)
+
+ANALYSIS:</br>
+![image](https://user-images.githubusercontent.com/66820548/117194856-3b1f3280-ae02-11eb-9305-33f709b3bc7f.png)
+
+![image](https://user-images.githubusercontent.com/66820548/117194876-3fe3e680-ae02-11eb-8b0f-10f314f15ae0.png)
+
+
