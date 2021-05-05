@@ -18,7 +18,7 @@ BiLSTM:</br>
 ![image](https://user-images.githubusercontent.com/66820548/117194775-1dea6400-ae02-11eb-8422-4656a417808a.png)
 
 GRU:</br>
-![image](https://user-images.githubusercontent.com/66820548/117194807-26429f00-ae02-11eb-9cf8-8541c53de68d.png)
+![image](https://user-images.githubusercontent.com/66820548/117194995-6013a580-ae02-11eb-9ea7-7c379624e86c.png)
 
 ANALYSIS:</br>
 ![image](https://user-images.githubusercontent.com/66820548/117194856-3b1f3280-ae02-11eb-9305-33f709b3bc7f.png)
